@@ -1,6 +1,6 @@
 // Leonel Brianese 93490/3 y Eduardo Toranza 122922/3
 // Comision 3
-// link video
+// https://www.youtube.com/watch?v=K_J6YyzMGoA
 
 let imagenes = [];
 let textos = [];
@@ -46,3 +46,4 @@ function draw() {
   inicio();
   Todo();
 }
+
